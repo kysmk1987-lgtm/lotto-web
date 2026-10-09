@@ -1,0 +1,40 @@
+{
+    "name": "로또놀이터",
+    "short_name": "로또놀이터",
+    "id": "./",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "lang": "ko",
+    "dir": "ltr",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "description": "로또 6/45 역대 당첨 결과와 통계 기반 참고용 번호 분석. 당첨을 보장하지 않습니다.",
+    "orientation": "portrait-primary",
+    "categories": ["entertainment", "utilities"],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
